@@ -30,5 +30,5 @@ You will now be able to use this and store the data.
 ## Tools Used
 Visual Studio & XAMPP
 
-##Languages Used
+## Languages Used
 HTML, CSS & PHP
