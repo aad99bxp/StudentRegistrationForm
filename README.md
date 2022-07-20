@@ -18,6 +18,7 @@ To implement this project, you must install XAMMP first and then create a databa
 14.Adhaar
 15.Passport
 
+## Process
 To create a database and table, you need to start APACHE from XAMMP and then MySQL. After starting the both, you need to click on the Admin  button of MySQL.It will lead
 you to PHP MyAdmin Panel from where you can create database and table.
 
@@ -25,3 +26,9 @@ Also,put both the files of this repo in one folder.That folder must be placed in
 
 After you have followed all of the above steps, go to browser and type: localhost/foldername (The name of the folder that contains the files of this repo).
 You will now be able to use this and store the data.
+
+## Tools Used
+Visual Studio & XAMPP
+
+##Languages Used
+HTML, CSS & PHP
