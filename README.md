@@ -1,4 +1,4 @@
-# StudentRegistrationForn
+# Student Registration Form
 
 This is a student registration form. It takes the input from the user and stores the data in the database. I have used HTML,CSS in frontend and PHP as a backend.
 To implement this project, you must install XAMMP first and then create a database name "form" and a table in the database called "users" with following attrubutes:
